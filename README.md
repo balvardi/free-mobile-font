@@ -1,0 +1,2 @@
+# free-mobile-font
+Dima Project is a public utility project based on open source rules for the development of free Dima fonts in mobile operating systems and mobile applications. This project intends to optimize Dima fonts for mobile. If you are a manufacturer of mobile phones or mobile software, you can use our fonts in your software or user interface for free. Our only condition for use is to mention the name of Dima Software Group as the font producer.
